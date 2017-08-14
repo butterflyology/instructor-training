@@ -8,7 +8,7 @@ questions:
 - "What will we cover (or not) in this workshop?"
 - "What prior knowledge do workshop participants have?"
 objectives:
-- "Identify one or more components of successful teaching." 
+- "Identify one or more components of successful teaching."
 - "Understand what will be covered in the instructor training."
 keypoints:
 - "This episode sets the stage for the entire workshop. The introductions and excercises help everyone begin to develop a relationship and trust."
@@ -19,13 +19,13 @@ keypoints:
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities is required
-to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry 
-and Data Carpentry including, but not limited to, workshops, email lists, online forums and on GitHub. Please review 
-[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it. 
+to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by Software Carpentry
+and Data Carpentry including, but not limited to, workshops, email lists, online forums and on GitHub. Please review
+[the Code of Conduct](https://software-carpentry.org/conduct/) so you are familiar with it.
 
 ## Introductions
 
-> Introductions set the stage for learning.  
+> Introductions set the stage for learning.
 > — Tracy Teal, Executive Director, Data Carpentry
 {: .quotation}
 
@@ -47,7 +47,7 @@ instructor training.  We're very pleased to have you with us.
 
 > ## Today's Learners
 >
-> 1. Everyone should add their name to the Etherpad (this can be done while setting up before the start of the class). 
+> 1. Everyone should add their name to the Etherpad (this can be done while setting up before the start of the class).
 > 1. Learners should also introduce themselves (preferably verbally). It is also good for everyone at a given site to know who all is in the group.
 > 1. As part of their instroduction, ask learners to 1) explain their work in 3 words and 2) say something they are proud of (not necessarily related to research or teaching).
 {: .discussion}
@@ -130,26 +130,27 @@ motivate the activities and how you communicate with the attendees.
 >
 > *Which of these most accurately describes your teaching experience?*
 >
-> 1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
-> 2.  I have not had any teaching experience in the past.
-> 3.  I have taught a seminar, workshop, or other short or informal course.
-> 4.  I have been the instructor-of-record for my own university/college course.
-> 5.  I have taught at the K-12 level.
+>
+>    1.  I have been a graduate or undergraduate teaching assistant for a university/college course.
+>    2.  I have not had any teaching experience in the past.
+>    3.  I have taught a seminar, workshop, or other short or informal course.
+>    4.  I have been the instructor-of-record for my own university/college course.
+>    5.  I have taught at the K-12 level.
 >
 > *Which of these questions assesses flaws in a student's mental model of a domain? You don't need to provide answers for these questions.*
 >
-> 1. I'm not sure what a mental model is.
-> 2. "In Python, what is the expected output for the following statement: 1 + '2'"
+>     1. I'm not sure what a mental model is.
+>     2. "In Python, what is the expected output for the following statement: 1 + '2'"
 > 	(a) '12'
 > 	(b) TypeError
 > 	(c) ‘3’
 > 	(d) 3
-> 3. "Rate your experience with the R programming language."
+>     3. "Rate your experience with the R programming language."
 > 	(a) never used it
 > 	(b) beginner
 > 	(c) intermediate
 > 	(d) expert
-> 4. "What does the Unix command 'cut' do?"
+>     4. "What does the Unix command 'cut' do?"
 > 	(a) Extracts sections from each line of input.
 > 	(b) Sorts fields of a line
 > 	(c) Searches the input file for lines containing a match to a pattern
